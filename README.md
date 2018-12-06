@@ -22,7 +22,7 @@ A module for MagicMirror which allows to rotate pictures from different sources.
 | --- | --- | --- |
 | `url` | [] | an array of urls to display |
 | `alt` | `` | `optional` Altenrative caption for pictures. |
-| `updateInterval` | 5000 ms | `optional` rotation interval, how long to show the image in Miliseconds (default 5 minutes) |
+| `updateInterval` | 30000 | `optional` rotation interval, how long to show the image in Miliseconds (default 5 minutes) |
 | `width` | 100% | `optional` Picture width can use % o px |
 | `height` | 100% | `optional` Picture width can use % o px |
 
