@@ -7,6 +7,16 @@
  * MIT Licensed.
  */
 
+
+/* MMM-PictureRotator 
+ * by Mariano S. Cosentino http://www.marianok.com.ar
+ *
+ * Additional Module info on github: https://github.com/mok726/MMM-PictureRotator
+ * and on http://www.Marianok.com.ar/MMM-PictureRotator
+ *
+ */
+
+
 Module.register("MMM-PictureRotator",{
 
 	// Default module config.
@@ -40,9 +50,8 @@ Module.register("MMM-PictureRotator",{
 
 	},
 
-socketNotificationReceived: function(notification, payload) {
+        socketNotificationReceived: function(notification, payload) {
 		
-	
 	},
 
 
