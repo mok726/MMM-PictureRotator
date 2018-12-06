@@ -1,6 +1,8 @@
 # MMM-PictureRotator
 A module for MagicMirror which allows to rotate pictures from different sources.
 
+I developed in order to show snapshots from my Foscam cameras, but can show images from most any URL
+
 
 ## Installation
 
